@@ -4,115 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="629fe95b-99e3-4fc3-8045-6c9765fb296b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/python_programming.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conditional_execution/ages.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conditional_execution/boolean_operation_00.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conditional_execution/boolean_operation_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conditional_execution/game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conditional_execution/game_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conditional_execution/if_elif_else.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conditional_execution/if_statement_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conditional_execution/if_statement_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conditional_execution/if_statment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conditional_execution/if_then_else.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conditional_execution/indentation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conditional_execution/try_except.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structures/dictionary/clown.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structures/dictionary/dict_00.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structures/dictionary/dict_literals_constants.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structures/dictionary/dict_tracebacks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structures/dictionary/frequency.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structures/dictionary/histogram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structures/dictionary/histogram_getMethod.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structures/dictionary/intro.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structures/dictionary/most_frequent_word.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structures/dictionary/retrieve_key_values.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structures/dictionary/two_interation_variables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structures/dictionary/word_count.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structures/list/build_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structures/list/is_something_in_a_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structures/list/list_00.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structures/list/list_averag.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structures/list/list_len.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structures/list/list_methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structures/list/lists_mutable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structures/list/return_list_range.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structures/tuples/most_common_words.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structures/tuples/sort_byValues.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structures/tuples/sorting_listsOf_tuples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structures/tuples/things_notodowith_tuples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structures/tuples/top_most_common_words.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structures/tuples/tuples_00.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structures/tuples/tuples_and_assignment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structures/tuples/tuples_av_methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structures/tuples/tuples_comparable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structures/tuples/tuples_dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exceptions/try_except.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exceptions/try_except_args.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exceptions/try_except_multiple_excetp_claus.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/function_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/function_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/function_arguments.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/function_return_multParam.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/function_return_value.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/function_return_value_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/functions_00.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loops_and_iterations/breaking_out_a_loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loops_and_iterations/continue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loops_and_iterations/finding_smallest_value.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loops_and_iterations/for_loop_00.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loops_and_iterations/for_loop_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loops_and_iterations/for_loop_counting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loops_and_iterations/for_loop_filtering.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loops_and_iterations/loop_idioms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loops_and_iterations/while_loop_00.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loops_and_iterations/while_loop_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loops_and_iterations/while_loop_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reading_file/file_handle_count_line.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reading_file/file_handle_template.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reading_file/file_processing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reading_file/new_line.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reading_file/open.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reading_file/read_bad_name.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reading_file/read_prompt_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reading_file/read_whole_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reading_file/searching_skipping_with_continue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reading_file/searching_through_afile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/regular_expresssions/double_split.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/regular_expresssions/escape_character.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/regular_expresssions/greedy_matching.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/regular_expresssions/match_and_extracting_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/regular_expresssions/non_greedy_matching.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/regular_expresssions/reg_exp.00.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/regular_expresssions/reg_exp_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/regular_expresssions/regex_version_split.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/regular_expresssions/spam_confidence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/regular_expresssions/string_parsing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strings/in_as_logical_operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strings/loop_through_strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strings/looping_counting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strings/slicing_strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strings/string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strings/string_comparision.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strings/string_concatenation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strings/string_library.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/type_casting/explicit_conversion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/type_casting/implicit_conversion.py" afterDir="false" />
-    </list>
+    <list default="true" id="629fe95b-99e3-4fc3-8045-6c9765fb296b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -125,90 +24,90 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.ages.executor&quot;: &quot;Run&quot;,
-    &quot;Python.boolean_operation_00.executor&quot;: &quot;Run&quot;,
-    &quot;Python.boolean_operation_01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.breaking_out_a_loop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.build_list.executor&quot;: &quot;Run&quot;,
-    &quot;Python.continue.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dict_00.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dict_literals_constants.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dict_tracebacks.executor&quot;: &quot;Run&quot;,
-    &quot;Python.double_split.executor&quot;: &quot;Run&quot;,
-    &quot;Python.escape_character.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exceptions_00.executor&quot;: &quot;Run&quot;,
-    &quot;Python.explicit_conversion.executor&quot;: &quot;Run&quot;,
-    &quot;Python.finding_smallest_value.executor&quot;: &quot;Run&quot;,
-    &quot;Python.for_loop_00.executor&quot;: &quot;Run&quot;,
-    &quot;Python.for_loop_01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.for_loop_counting.executor&quot;: &quot;Run&quot;,
-    &quot;Python.for_loop_filtering.executor&quot;: &quot;Run&quot;,
-    &quot;Python.frequency.executor&quot;: &quot;Run&quot;,
-    &quot;Python.function_01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.function_02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.function_return_multParam.executor&quot;: &quot;Run&quot;,
-    &quot;Python.function_return_value.executor&quot;: &quot;Run&quot;,
-    &quot;Python.function_return_value_01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.game.executor&quot;: &quot;Run&quot;,
-    &quot;Python.game_01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.greedy_matching.executor&quot;: &quot;Run&quot;,
-    &quot;Python.histogram.executor&quot;: &quot;Run&quot;,
-    &quot;Python.histogram_getMethod.executor&quot;: &quot;Run&quot;,
-    &quot;Python.if_elif_else.executor&quot;: &quot;Run&quot;,
-    &quot;Python.if_statement_01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.if_statement_02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.if_statment.executor&quot;: &quot;Run&quot;,
-    &quot;Python.if_then_else.executor&quot;: &quot;Run&quot;,
-    &quot;Python.in_as_logical_operator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.indentation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.is_something_in_a_list.executor&quot;: &quot;Run&quot;,
-    &quot;Python.list_00.executor&quot;: &quot;Run&quot;,
-    &quot;Python.list_averag.executor&quot;: &quot;Run&quot;,
-    &quot;Python.list_len.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lists_mutable.executor&quot;: &quot;Run&quot;,
-    &quot;Python.loop_00.executor&quot;: &quot;Run&quot;,
-    &quot;Python.loop_idioms.executor&quot;: &quot;Run&quot;,
-    &quot;Python.loop_through_strings.executor&quot;: &quot;Run&quot;,
-    &quot;Python.looping_counting.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.match_and_extracting_data.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.most_common_words.executor&quot;: &quot;Run&quot;,
-    &quot;Python.new_line.executor&quot;: &quot;Run&quot;,
-    &quot;Python.non_greedy_matching.executor&quot;: &quot;Run&quot;,
-    &quot;Python.regex_version_split.executor&quot;: &quot;Run&quot;,
-    &quot;Python.retrieve_key_values.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.return_list_range.executor&quot;: &quot;Run&quot;,
-    &quot;Python.slicing_strings.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sort_byValues.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.sorting_listsOf_tuples.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.string.executor&quot;: &quot;Run&quot;,
-    &quot;Python.string_comparision.executor&quot;: &quot;Run&quot;,
-    &quot;Python.string_concatenation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.string_library.executor&quot;: &quot;Run&quot;,
-    &quot;Python.string_parsing.executor&quot;: &quot;Run&quot;,
-    &quot;Python.things_notodowith_tuples.executor&quot;: &quot;Run&quot;,
-    &quot;Python.top_most_common_words.executor&quot;: &quot;Run&quot;,
-    &quot;Python.try_except.executor&quot;: &quot;Run&quot;,
-    &quot;Python.try_except_args.executor&quot;: &quot;Run&quot;,
-    &quot;Python.try_except_multiple_excetp_claus.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tuples_00.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.tuples_and_assignment.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.tuples_av_methods.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tuples_comparable.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tuples_dictionary.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.two_interation_variables.executor&quot;: &quot;Run&quot;,
-    &quot;Python.type_casting_00.executor&quot;: &quot;Run&quot;,
-    &quot;Python.while_loop_02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.word_count.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/apps/positron/miniconda3/bin/conda&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;settings.editor.splitter.proportion&quot;: &quot;0.31231925&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.ages.executor": "Run",
+    "Python.boolean_operation_00.executor": "Run",
+    "Python.boolean_operation_01.executor": "Run",
+    "Python.breaking_out_a_loop.executor": "Run",
+    "Python.build_list.executor": "Run",
+    "Python.continue.executor": "Run",
+    "Python.dict_00.executor": "Run",
+    "Python.dict_literals_constants.executor": "Run",
+    "Python.dict_tracebacks.executor": "Run",
+    "Python.double_split.executor": "Run",
+    "Python.escape_character.executor": "Run",
+    "Python.exceptions_00.executor": "Run",
+    "Python.explicit_conversion.executor": "Run",
+    "Python.finding_smallest_value.executor": "Run",
+    "Python.for_loop_00.executor": "Run",
+    "Python.for_loop_01.executor": "Run",
+    "Python.for_loop_counting.executor": "Run",
+    "Python.for_loop_filtering.executor": "Run",
+    "Python.frequency.executor": "Run",
+    "Python.function_01.executor": "Run",
+    "Python.function_02.executor": "Run",
+    "Python.function_return_multParam.executor": "Run",
+    "Python.function_return_value.executor": "Run",
+    "Python.function_return_value_01.executor": "Run",
+    "Python.game.executor": "Run",
+    "Python.game_01.executor": "Run",
+    "Python.greedy_matching.executor": "Run",
+    "Python.histogram.executor": "Run",
+    "Python.histogram_getMethod.executor": "Run",
+    "Python.if_elif_else.executor": "Run",
+    "Python.if_statement_01.executor": "Run",
+    "Python.if_statement_02.executor": "Run",
+    "Python.if_statment.executor": "Run",
+    "Python.if_then_else.executor": "Run",
+    "Python.in_as_logical_operator.executor": "Run",
+    "Python.indentation.executor": "Run",
+    "Python.is_something_in_a_list.executor": "Run",
+    "Python.list_00.executor": "Run",
+    "Python.list_averag.executor": "Run",
+    "Python.list_len.executor": "Run",
+    "Python.lists_mutable.executor": "Run",
+    "Python.loop_00.executor": "Run",
+    "Python.loop_idioms.executor": "Run",
+    "Python.loop_through_strings.executor": "Run",
+    "Python.looping_counting.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.match_and_extracting_data.executor": "Debug",
+    "Python.most_common_words.executor": "Run",
+    "Python.new_line.executor": "Run",
+    "Python.non_greedy_matching.executor": "Run",
+    "Python.regex_version_split.executor": "Run",
+    "Python.retrieve_key_values.executor": "Debug",
+    "Python.return_list_range.executor": "Run",
+    "Python.slicing_strings.executor": "Run",
+    "Python.sort_byValues.executor": "Debug",
+    "Python.sorting_listsOf_tuples.executor": "Debug",
+    "Python.string.executor": "Run",
+    "Python.string_comparision.executor": "Run",
+    "Python.string_concatenation.executor": "Run",
+    "Python.string_library.executor": "Run",
+    "Python.string_parsing.executor": "Run",
+    "Python.things_notodowith_tuples.executor": "Run",
+    "Python.top_most_common_words.executor": "Run",
+    "Python.try_except.executor": "Run",
+    "Python.try_except_args.executor": "Run",
+    "Python.try_except_multiple_excetp_claus.executor": "Run",
+    "Python.tuples_00.executor": "Debug",
+    "Python.tuples_and_assignment.executor": "Debug",
+    "Python.tuples_av_methods.executor": "Run",
+    "Python.tuples_comparable.executor": "Run",
+    "Python.tuples_dictionary.executor": "Debug",
+    "Python.two_interation_variables.executor": "Run",
+    "Python.type_casting_00.executor": "Run",
+    "Python.while_loop_02.executor": "Run",
+    "Python.word_count.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/persdoc_dir/allProject_sciptDir/github_projects/pyprojs",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.splitter.proportion": "0.31231925"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\persdoc_dir\allProject_sciptDir\programming_languages\python\drchunk_p4e\pythonProject\data_structures\dictionary" />
