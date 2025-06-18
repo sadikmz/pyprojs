@@ -7,3 +7,5 @@ def sum(values):
             raise TypeError("Elements must be numeric.")
         total = total + v
     return total
+
+print(sum(10))

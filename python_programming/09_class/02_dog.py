@@ -1,5 +1,5 @@
 class Dog:
-    # This is teh constructor for the class. It is called whenever a Dog objected created. The reference "self" is created by python and made to point to the space for newly created object.
+    # This is the constructor for the class. It is called whenever a Dog objected created. The reference "self" is created by python and made to point to the space for newly created object.
     # Python does this automatically for us but we have to have "self" as the first parameter to the _init_method (i.e the constructor)
     def __init__(self, name, month, day, year, speakText):
         self.name = name
@@ -23,8 +23,8 @@ class Dog:
     # This is a mutator method method that changes the speakText of the Dog object.
     def changeBark (self,bark) :
         self.speakText = bark
-    # When creating the new puppy we don't know it's birrthday. Pick the first dog's birthday plust one year. The speakText will be the concatenaton of both dog's text.
-    # Teh dog on the left side of + operator is t object refrenced by the "self" parameter. The "otherDog" parameter is the dog on the right side of the + operator.
+    # When creating the new puppy we don't know it's birthday. Pick the first dog's birthday plust one year. The speakText will be the concatenaton of both dog's text.
+    # The dog on the left side of + operator is the object refrenced by the "self" parameter. The "otherDog" parameter is the dog on the right side of the + operator.
 
     def __add__(self, otherDog) :
         return Dog("Puppy of " + self.name + " and " + otherDog.name, self.month, self.day, self.year + 1, self.speakText + otherDog.speakText)

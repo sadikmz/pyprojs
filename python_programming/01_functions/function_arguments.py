@@ -5,3 +5,7 @@ def greet(lang):
         print("Bonjour")
     else:
         print("Hello")
+
+greet("en")
+greet("es") 
+greet("fr")

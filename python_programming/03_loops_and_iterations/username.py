@@ -1,0 +1,5 @@
+username = ""
+
+while username != "test":
+    username = input("Enter username: ")
+    # print(username)

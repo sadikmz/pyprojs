@@ -1,4 +1,4 @@
-from reading_file.open import fhand
+# from reading_file.open import fhand
 
 fname = input("Enter the file name: ")
 try:
