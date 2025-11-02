@@ -1,0 +1,12 @@
+We need to create a Polygon class with the following properties:
+- Number of vertices n - passed to the initializer
+- circumradius R - passed to the initializer 
+- number of edges
+- number of sides 
+- interior angles (in degrees)
+- side length 
+- apothem 
+- surface area
+- perimeter 
+- supports equality based on numbers of vertices and circumradius 
+- supports > based on numbers of vertices 

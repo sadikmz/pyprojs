@@ -56,11 +56,11 @@ class Version(namedtuple("Version", ["major", "minor", "micro", "release", "pre"
       The dot is used to ensure all development specifiers are sorted before `alpha`.
       You can specify a `dev` number for development builds, but do not have to as implicit development releases
       are allowed.
-    - You must specify a `pre` value greater than zero if using a prerelease as this project (not PEP 440) does not
+    - You must specify a `pre` value greater than zero if using a prerelease as this 16_project (not PEP 440) does not
       allow implicit prereleases.
     - You can optionally set `post` to a value greater than zero to make the build a post release. While post releases
       are technically allowed in prereleases, it is strongly discouraged, so we are rejecting them. It should be
-      noted that we do not allow `post0` even though PEP 440 does not restrict this. This project specifically
+      noted that we do not allow `post0` even though PEP 440 does not restrict this. This 16_project specifically
       does not allow implicit post releases.
     - It should be noted that we do not support epochs `1!` or local versions `+some-custom.version-1`.
 
