@@ -1,15 +1,15 @@
 # Dirsectories
-./DSA_project/
-./leetcode
-./rewriting_programms
-./reddit
-./python_programming/BlackJackOOP/.idea/
-./python_programming/OPP/.idea
-./python_programming/BlackJackOO
-./python_programming/OPP/customclass/.idea/
-./python_programming/OPP/.idea
-./.idea
-./Agent
+DSA_project/
+leetcode
+rewriting_programms
+reddit
+python_programming/BlackJackOOP/.idea/
+python_programming/OPP/.idea
+python_programming/BlackJackOO
+python_programming/OPP/customclass/.idea/
+python_programming/OPP/.idea
+.idea
+Agent
 # ./python_programming/OPP/.idea/OPP.iml
 # Byte-compiled / optimized / DLL files
 # __pycache__/
